@@ -1,0 +1,33 @@
+[
+  {
+    "text": "Notices to Commercial Fishers",
+    "description": "Notices to Commercial Fishers",
+    "url": "http://pir.sa.gov.au/fisheries/commercial_fishing/fisheries_management/notices_to_commercial_fishers",
+    "pubDate": "",
+    "isHeader": true
+  },
+  //  {
+  //    "text":"Notice to Fishers -",
+  //    "description":"Notice to Fishers - Sardine Fishery TACC determination for 2017",
+  //    "url":"http:\/\/pir.sa.gov.au\/__data\/assets\/pdf_file\/0006\/287394\/Notice_to_Fishers_-_Sardine_Fishery_TACC_determination_for_2017.pdf",
+  //    "pubDate":"Thu, 12 Jan 2017 10:06:36 +1030"
+  //  },
+  {
+    "text": "Snapper management regions map",
+    "description": "Snapper management regions map 2016-17",
+    "url": "https://docs.google.com/gview?embedded=true&url=http://pir.sa.gov.au/__data/assets/pdf_file/0006/286674/SnapperMgtRegionsmap_2016-17.pdf",
+    "pubDate": "Mon, 19 Dec 2016 12:34:06 +1030"
+  },
+  {
+    "text": "Section 79 - Commercial",
+    "description": "Section 79 - Commercial Trip Limits -15 December 2016 to 1 November 2017",
+    "url": "https://docs.google.com/gview?embedded=true&url=http://pir.sa.gov.au/__data/assets/pdf_file/0005/286673/Section_79_-_Commercial_Trip_Limits_-15_December_2016_to_1_November_2017....pdf",
+    "pubDate": "Mon, 19 Dec 2016 12:33:51 +1030"
+  },
+  {
+    "text": "Notice to fishers -",
+    "description": "Notice to fishers - all Licence Holder RE Snapper measures - December 2016",
+    "url": "https://docs.google.com/gview?embedded=true&url=http://pir.sa.gov.au/__data/assets/pdf_file/0004/286672/Notice_to_fishers-_all_Licence_Holder_RE_Snapper_measures_Dec_2016.pdf",
+    "pubDate": "Mon, 19 Dec 2016 12:33:46 +1030"
+  }
+]
